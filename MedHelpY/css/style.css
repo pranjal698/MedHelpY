@@ -224,7 +224,7 @@ button {
 
 .navbar-expand-lg .navbar-nav .nav-link {
     padding: 12px 17px 0px 3px;
-    position: sticky;
+    position: absolute;
     font-size: 14px;
     text-align: match-parent;
     color: white;
